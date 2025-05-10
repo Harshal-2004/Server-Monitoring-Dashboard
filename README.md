@@ -1,9 +1,8 @@
 
 # Server Monitoring Dashboard
 A web-based dashboard for monitoring server metrics including CPU, RAM, disk usage, and network traffic.
-![image](https://github.com/user-attachments/assets/8bce773c-0023-4141-b783-b185f3bafb73)
-![image](https://github.com/user-attachments/assets/c8d0386d-f972-4e47-8e8a-1f637e2b28bb)
-![image](https://github.com/user-attachments/assets/1245a731-39aa-453f-b0fe-100d1b646519)
+
+![Dashboard Screenshot](assets/dashboard.png)
 
 ## Features
 
@@ -52,4 +51,4 @@ npm start
 
 The application will be available at:
 - Frontend: http://localhost:3000
-- Backend API: http://localhost:5000 
+- Backend API: http://localhost:5000
