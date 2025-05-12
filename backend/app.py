@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 app = Flask(__name__)
 CORS(app)
 
-# Mock data generation functions
+# Mock data generation function
 def generate_server_metrics():
     return {
         'cpu_usage': random.uniform(0, 100),
